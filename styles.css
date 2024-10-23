@@ -123,7 +123,7 @@ body, a {
     background-color: #CADD57;
     color: #323232;
     font-size: 1rem;
-    transition: all 0.3s ease;
+    text-align: center;
 }
 
 /* About Me Section */
@@ -201,8 +201,10 @@ footer {
     }
 
     #see-more {
-        padding: 1.5rem 5rem;
+        padding: 1.3rem 5rem;
         font-size: 0.8rem;
+        width: 100%;
+        text-align: center;
     }
 }
 
